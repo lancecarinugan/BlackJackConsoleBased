@@ -15,6 +15,11 @@ public class BlackJack
     public BlackJack()
     {
         // Initializations here...
+        Deck [] player;
+        Deck deck = new Deck();
+        deck.initializeNewDeck
+        deck.shuffle
+        deck.deal
         
         
         // ...then run the event loop
